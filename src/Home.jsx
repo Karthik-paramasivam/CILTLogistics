@@ -20,7 +20,7 @@ import CILT6Image from "./Images/CILT6Image.jpg";
 import "./App.css";
 import ISO from "./Images/ISOCertified.png";
 import KHDA from "./Images/KHDA.png";
-import IATA from "./Images/IATA.png";
+import CharteredLogo from "./Images/CharteredLogo.jpeg";
 import contactsvg from "./Images/Contactsvg.svg";
 import Contactbanner from "./Images/Contactbanner.png";
 import ElevateImage from "./Images/ElevateImage.png";
@@ -874,13 +874,11 @@ export default function Home({ handleModalOpen }) {
             <div className="col-12 col-lg-4 mt-5 recognitionsBorder">
               <div className="text-center">
                 {" "}
-                <img src={IATA} alt="IATA Image" className="img-fluid w-25" />
+                <img src={CharteredLogo} alt="Chartered Image" className="img-fluid w-50" />
               </div>
 
               <p className="mt-3 text-center">
-                Our courses are recognised by the International Air Transport
-                Association (IATA, Canada), ensuring industry relevance and
-                international recognition.
+              WingsWay Training Institute holds the prestigious status of being an Accredited Training Provider (ATP) by the Chartered Institute Of Logistics & Transport, UK.
               </p>
             </div>
 
@@ -1196,7 +1194,7 @@ export default function Home({ handleModalOpen }) {
               <img
                 src={CILT2Image}
                 alt="CILT2 Image"
-                className="img-fluid"
+                className="img-fluid CILT2Imagewidth"
                 style={{ borderRadius: "3px 30px 3px 30px" }}
               />
             </div>
@@ -1288,7 +1286,7 @@ export default function Home({ handleModalOpen }) {
               <img
                 src={CILT3Image}
                 alt="Learning Outcomes Image"
-                className="img-fluid ms-lg-3"
+                className="CILT3Imagewidth ms-lg-3"
                 style={{ borderRadius: "3px 30px 3px 30px" }}
               />
             </div>
@@ -1380,7 +1378,7 @@ export default function Home({ handleModalOpen }) {
               <img
                 src={CILT5Image}
                 alt="CILT5 Image"
-                className="img-fluid"
+                className="CILT5Imagewidth"
                 style={{ borderRadius: "3px 30px 3px 30px" }}
               />
             </div>
@@ -1471,7 +1469,7 @@ export default function Home({ handleModalOpen }) {
               <img
                 src={CILT6Image}
                 alt="CILT6 Image"
-                className="img-fluid ms-lg-3"
+                className="CILT6Imagewidth ms-lg-3"
                 style={{ borderRadius: "3px 30px 3px 30px" }}
               />
             </div>
