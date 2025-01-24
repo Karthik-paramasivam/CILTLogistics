@@ -252,7 +252,7 @@ export default function Home({ handleModalOpen }) {
     };
 
     // Log the final form data
-    console.log(updatedFormData);
+    // console.log(updatedFormData);
 
     // Save to state (if needed)
     setFormData(updatedFormData);
@@ -679,7 +679,7 @@ export default function Home({ handleModalOpen }) {
                   zIndex: -1,
                 }}
               ></div>
-              <div className="row mt-5  rounded-5 p-1 terminalresponsive-container align-items-center">
+              <div className="row mt-5  mt-lg-3 rounded-5 p-1 terminalresponsive-container align-items-center">
                 {/* First Column with Text */}
                 <motion.div
                   className="col-12 col-lg-6  text-start"
@@ -688,12 +688,12 @@ export default function Home({ handleModalOpen }) {
                   transition={{ duration: 1.5 }}
                 >
                   <h1
-                    className="text-white ms-3"
+                    className="text-white mt-3 mt-md-3 ms-3 heroheading"
                     // style={{ fontSize: "60px", fontWeight: "700" }}
                   >
                     Discover Your Potential in Logistics
                   </h1>
-                  <p className="text-white  ms-3">
+                  <p className="text-white herotext ms-3">
                     Uncover new career opportunities with logistics and
                     transport training courses.
                   </p>
@@ -853,7 +853,7 @@ export default function Home({ handleModalOpen }) {
                 </span>
 
                 <br />
-                <span>  Chartered Institute of Logistics and Transport?</span>
+                <span>  CILT Logistics and Transport Training?</span>
               </h1>
             </div>
           </div>
@@ -867,7 +867,7 @@ export default function Home({ handleModalOpen }) {
             ref={myRef0}
           >
             <div className="col-12 ">
-              <h2 className="text-center fw-bold RecognitionsHeading">
+              <h2 className="text-center mt-1 RecognitionsHeading">
                 Recognitions and Qualifications
               </h2>
             </div>
@@ -913,7 +913,7 @@ export default function Home({ handleModalOpen }) {
             ref={myRef1}
           >
             <div className="col-12 text-center text-black">
-              <h2 className="text-center fw-bold RecognitionsHeading">
+              <h2 className="text-center RecognitionsHeading">
                 Trusted By Students Worldwide
               </h2>
             </div>
@@ -1050,7 +1050,7 @@ export default function Home({ handleModalOpen }) {
                       className="course-title  "
                     >
                       <h1
-                        className="text-start Courseheading fw-bold"
+                        className="text-start Courseheading "
                         style={{ color: "#0971CE" }}
                       >
                         About CILT
@@ -1122,7 +1122,7 @@ export default function Home({ handleModalOpen }) {
         <div className="container-fluid  mt-5 bg-light" id="About">
           <div className="row ">
             <div className="col-12 mt-5">
-              <h1 className="text-center fw-bold">About the Course</h1>{" "}
+              <h1 className="text-center Aboutheading">About the Course</h1>{" "}
             </div>
           </div>
         </div>
@@ -1136,13 +1136,13 @@ export default function Home({ handleModalOpen }) {
             {/* Content Section */}
             <div className="col-12 col-lg-6 order-2 order-lg-2">
               <h2
-                className="text-start ms-lg-4 mt-3 Aboutheading"
+                className="text-start ms-lg-4 mt-2 Aboutsubheading"
                 style={{ color: "#011689" }}
               >
                 CILT Level 2
               </h2>
               <ul style={{ listStyleType: "none", paddingLeft: 0 }}>
-                <li className="ms-lg-4 d-flex align-items-start mt-3">
+                <li className="ms-lg-4 d-flex align-items-start mt-1">
                   <FontAwesomeIcon
                     icon={faCircleCheck}
                     className="me-2 flex-shrink-0 mt-1 ms-1"
@@ -1223,7 +1223,7 @@ export default function Home({ handleModalOpen }) {
             {/* Content Section */}
             <div className="col-12 col-lg-6 order-2 order-lg-1 mt-3 ">
               <h1
-                className="text-start Aboutheading"
+                className="text-start Aboutsubheading"
                 style={{ color: "#0971CE" }}
               >
                 CILT Level 3
@@ -1312,14 +1312,14 @@ export default function Home({ handleModalOpen }) {
           >
             <div className="col-12 col-lg-6 order-2 order-lg-2">
               <h2
-                className="text-start ms-lg-4 mt-3 Aboutheading"
+                className="text-start ms-lg-4 mt-3 Aboutsubheading"
                 style={{ color: "#011689" }}
               >
                 CILT Level 5
               </h2>
 
               <ul style={{ listStyleType: "none", paddingLeft: 0 }}>
-                <li className="ms-lg-4 d-flex align-items-start mt-3">
+                <li className="ms-lg-4 d-flex align-items-start mt-1">
                   <FontAwesomeIcon
                     icon={faCircleCheck}
                     className="me-2 flex-shrink-0 mt-1 ms-1"
@@ -1405,7 +1405,7 @@ export default function Home({ handleModalOpen }) {
           >
             <div className="col-12 col-lg-6 order-2 order-lg-1">
               <h1
-                className="text-start Aboutheading mt-3"
+                className="text-start Aboutsubheading mt-3"
                 style={{ color: "#0971CE" }}
               >
                 CILT Level 6
@@ -1532,7 +1532,7 @@ export default function Home({ handleModalOpen }) {
         >
           <div className="row  d-flex align-items-center justify-content-center  aboutdivwidth">
             <div className="col-12 text-center ">
-              <h1 className="fw-bold" style={{ color: "#011689" }}>
+              <h1 className="Testimonialmainheading" style={{ color: "#011689" }}>
                 Testimonials
               </h1>
             </div>
@@ -1653,7 +1653,7 @@ export default function Home({ handleModalOpen }) {
             ref={myRef9}
           >
             <div className="col-12">
-              <h1 className="text-center text-white elevateheading">
+              <h1 className="text-center text-white Getintouchheading">
                 Get In Touch
               </h1>
             </div>

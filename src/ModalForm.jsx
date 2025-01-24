@@ -34,7 +34,7 @@ function ModalForm({ isModalVisible, handleModalClose }) {
     };
 
     // Log the final form data
-    console.log(updatedFormData);
+    // console.log(updatedFormData);
 
     // Save to state (if needed)
     setFormData(updatedFormData);
