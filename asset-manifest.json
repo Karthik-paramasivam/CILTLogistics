@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CILTLogistics/static/css/main.77cbd4e8.css",
-    "main.js": "/CILTLogistics/static/js/main.fc999404.js",
+    "main.css": "/CILTLogistics/static/css/main.1bf0ef47.css",
+    "main.js": "/CILTLogistics/static/js/main.2bce5533.js",
     "static/js/488.7e101b22.chunk.js": "/CILTLogistics/static/js/488.7e101b22.chunk.js",
     "static/media/Contactbanner.png": "/CILTLogistics/static/media/Contactbanner.9586aca82b13ff16a360.png",
     "static/media/Terminal.jpg": "/CILTLogistics/static/media/Terminal.8b7c475bf7ffde9395c3.jpg",
@@ -22,12 +22,12 @@
     "static/media/slick.woff": "/CILTLogistics/static/media/slick.295183786cd8a1389865.woff",
     "static/media/Contactsvg.svg": "/CILTLogistics/static/media/Contactsvg.15e14b7072527e1d38f3fedc3870d4a8.svg",
     "index.html": "/CILTLogistics/index.html",
-    "main.77cbd4e8.css.map": "/CILTLogistics/static/css/main.77cbd4e8.css.map",
-    "main.fc999404.js.map": "/CILTLogistics/static/js/main.fc999404.js.map",
+    "main.1bf0ef47.css.map": "/CILTLogistics/static/css/main.1bf0ef47.css.map",
+    "main.2bce5533.js.map": "/CILTLogistics/static/js/main.2bce5533.js.map",
     "488.7e101b22.chunk.js.map": "/CILTLogistics/static/js/488.7e101b22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77cbd4e8.css",
-    "static/js/main.fc999404.js"
+    "static/css/main.1bf0ef47.css",
+    "static/js/main.2bce5533.js"
   ]
 }
