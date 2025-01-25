@@ -858,7 +858,7 @@ export default function Home({ handleModalOpen }) {
             </div>
           </div>
           <div
-            className={`row   d-flex align-items-center mt-2 pt-lg-5 pb-lg-5 ps-lg-3 pe-lg-3 p-xl-5 p-xxl-5 justify-content-center WhyChoose-container custom-background slide-in-left   ${
+            className={`row   d-flex align-items-center mt-2 p-3 p-md-5 pt-lg-5 pb-lg-5 ps-lg-3 pe-lg-3 p-xl-5 p-xxl-5 justify-content-center WhyChoose-container custom-background slide-in-left   ${
               hasViewedSlide.zeroElement ? "animate-slide-in" : ""
             }`}
             style={{
@@ -874,7 +874,7 @@ export default function Home({ handleModalOpen }) {
             <div className="col-12 col-lg-4 mt-5 mt-xl-3 mt-xxl-5 recognitionsBorder">
               <div className="text-center">
                 {" "}
-                <img src={CharteredLogo} alt="Chartered Image" className="img-fluid  w-25"  />
+                <img src={CharteredLogo} alt="Chartered Image" className="img-fluid CILTLogoWidth"  />
               </div>
 
               <p className="mt-3 text-center">
