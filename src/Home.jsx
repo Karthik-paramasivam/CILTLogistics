@@ -20,7 +20,7 @@ import CILT6Image from "./Images/CILT6Image.jpg";
 import "./App.css";
 import ISO from "./Images/ISOCertified.png";
 import KHDA from "./Images/KHDA.png";
-import CharteredLogo from "./Images/CharteredLogo.jpeg";
+import CharteredLogo from "./Images/CharteredLogo.png"
 import contactsvg from "./Images/Contactsvg.svg";
 import Contactbanner from "./Images/Contactbanner.png";
 import ElevateImage from "./Images/ElevateImage.png";
@@ -858,7 +858,7 @@ export default function Home({ handleModalOpen }) {
             </div>
           </div>
           <div
-            className={`row   d-flex align-items-center mt-2 p-lg-5 justify-content-center WhyChoose-container custom-background slide-in-left   ${
+            className={`row   d-flex align-items-center mt-2 pt-lg-5 pb-lg-5 ps-lg-3 pe-lg-3 p-xl-5 p-xxl-5 justify-content-center WhyChoose-container custom-background slide-in-left   ${
               hasViewedSlide.zeroElement ? "animate-slide-in" : ""
             }`}
             style={{
@@ -871,10 +871,10 @@ export default function Home({ handleModalOpen }) {
                 Recognitions and Qualifications
               </h2>
             </div>
-            <div className="col-12 col-lg-4 mt-5 recognitionsBorder">
+            <div className="col-12 col-lg-4 mt-5 mt-xl-3 mt-xxl-5 recognitionsBorder">
               <div className="text-center">
                 {" "}
-                <img src={CharteredLogo} alt="Chartered Image" className="img-fluid w-50" />
+                <img src={CharteredLogo} alt="Chartered Image" className="img-fluid  w-25"  />
               </div>
 
               <p className="mt-3 text-center">
@@ -882,18 +882,18 @@ export default function Home({ handleModalOpen }) {
               </p>
             </div>
 
-            <div className="col-12 col-lg-4 mt-5  recognitionsBorder">
+            <div className="col-12 col-lg-4 mt-5 mt-xl-4  mt-xxl-4 recognitionsBorder">
               <div className="text-center">
-                <img src={KHDA} alt="KHDA Image" className="img-fluid w-25" />
+                <img src={KHDA} alt="KHDA Image" className="img-fluid w-25 " />
               </div>
               <p className="mt-3 text-center">
                 Our courses meet the high standards set by the Knowledge and
                 Human Development Authority for private education.
               </p>
             </div>
-            <div className="col-12 col-lg-4 mt-5">
+            <div className="col-12 col-lg-4 mt-5 mt-md-5 mt-lg-1 mt-xl-1 mt-xxl-1 ">
               <div className="text-center">
-                <img src={ISO} alt="ISO Image" className="img-fluid w-25" />
+                <img src={ISO} alt="ISO Image" className="img-fluid w-25 " />
               </div>
               <p className="mt-3 text-center">
                 We are committed to quality management and continuous

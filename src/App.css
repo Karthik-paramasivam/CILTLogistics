@@ -319,12 +319,22 @@ html {
   border-right: 2px solid #dee2e6;
 }
 
+@media (max-width: 1024px){
+  .recognitionsBorder {
+    border-right: 2px solid #dee2e6;
+
+  height: 200px;
+}
+}
+
 @media (max-width: 768px){
   .recognitionsBorder {
   border-bottom: 2px solid #dee2e6;
   border-right: none;
   border-top: none;
   border-left: none;
+
+  /* height: 200px; */
 }
 }
 
@@ -692,4 +702,56 @@ button.EnquireButton:hover {
 }
 .CILT6Imagewidth{
   width: 300px !important;
+}
+
+
+@media (max-width: 2560px) {
+  .CILTLogoWidth{
+    width: 120px;
+
+  }
+}
+
+
+@media (max-width: 1440px) {
+  .CILTLogoWidth{
+    width: 150px;
+
+  }
+}
+
+@media (max-width: 1024px) {
+  .CILTLogoWidth{
+    width: 100px;
+
+  }
+}
+
+@media (max-width: 768px) {
+  .CILTLogoWidth{
+    width: 300px;
+
+  }
+}
+
+@media (max-width: 426px) {
+  .CILTLogoWidth{
+    width: 200px;
+
+  }
+}
+
+
+@media (max-width: 376px) {
+  .CILTLogoWidth{
+    width: 200px;
+
+  }
+}
+
+
+@media (max-width: 321px) {
+  .CILTLogoWidth{
+    width: 150px;
+  }
 }
