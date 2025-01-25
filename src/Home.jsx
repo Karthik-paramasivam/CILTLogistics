@@ -1190,11 +1190,11 @@ export default function Home({ handleModalOpen }) {
             </div>
 
             {/* Image Section */}
-            <div className="col-12 col-lg-6 mt-3 order-1 order-lg-1">
+            <div className="col-12 col-lg-4 col-xl-4 col-xxl-4 mt-3 order-1 order-lg-1">
               <img
                 src={CILT2Image}
                 alt="CILT2 Image"
-                className="img-fluid CILT2Imagewidth"
+                className="img-fluid CILT2Imagewidth ms-xxl-4"
                 style={{ borderRadius: "3px 30px 3px 30px" }}
               />
             </div>
@@ -1374,11 +1374,11 @@ export default function Home({ handleModalOpen }) {
             </div>
 
             {/* Image Section */}
-            <div className="col-12 col-lg-6 mt-3 mt-lg-4 order-1 order-lg-1">
+            <div className="col-12 col-lg-5 col-xl-4 col-xxl-4 mt-3 mt-lg-4 order-1 order-lg-1">
               <img
                 src={CILT5Image}
                 alt="CILT5 Image"
-                className="CILT5Imagewidth"
+                className="CILT5Imagewidth ms-xxl-5"
                 style={{ borderRadius: "3px 30px 3px 30px" }}
               />
             </div>

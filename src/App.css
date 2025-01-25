@@ -665,15 +665,42 @@ button.EnquireButton:hover {
   font-size: 24px !important;
 }
 
+@media (max-width: 2560px) {
+ 
+  .CILT5Imagewidth{
+    width: 285px !important;
+  }
+}
+
+@media (max-width: 1440px) {
+ 
+  .CILT5Imagewidth{
+    width: 300px !important;
+  }
+}
+
+@media (max-width: 1024px) {
+ 
+  .CILT5Imagewidth{
+    width: 300px !important;
+  }
+}
+
 @media (max-width: 768px) {
   .dynamic-height {
     height: 1100px !important;
+  }
+  .CILT5Imagewidth{
+    width: 300px !important;
   }
 }
 
 @media (max-width: 426px) {
   .dynamic-height {
     height: 1170px !important;
+  }
+  .CILT5Imagewidth{
+    width: 300px !important;
   }
 }
 
@@ -682,12 +709,18 @@ button.EnquireButton:hover {
   .dynamic-height {
     height: 1200px !important;
   }
+  .CILT5Imagewidth{
+    width: 300px !important;
+  }
 }
 
 
 @media (max-width: 321px) {
   .dynamic-height {
     height: 1280px !important;
+  }
+  .CILT5Imagewidth{
+    width: 300px !important;
   }
 }
 
