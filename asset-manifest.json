@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CILTLogistics/static/css/main.bf70bf5a.css",
-    "main.js": "/CILTLogistics/static/js/main.b740d967.js",
+    "main.css": "/CILTLogistics/static/css/main.5fe316ac.css",
+    "main.js": "/CILTLogistics/static/js/main.32f3aee9.js",
     "static/js/488.7e101b22.chunk.js": "/CILTLogistics/static/js/488.7e101b22.chunk.js",
     "static/media/Contactbanner.png": "/CILTLogistics/static/media/Contactbanner.9586aca82b13ff16a360.png",
     "static/media/Terminal.jpg": "/CILTLogistics/static/media/Terminal.8b7c475bf7ffde9395c3.jpg",
@@ -13,7 +13,7 @@
     "static/media/ISOCertified.png": "/CILTLogistics/static/media/ISOCertified.22b8a25ffbababb95871.png",
     "static/media/CharteredImage.png": "/CILTLogistics/static/media/CharteredImage.5a9c9745939796c8e90e.png",
     "static/media/KHDA.png": "/CILTLogistics/static/media/KHDA.2d57c6c5d87f5ac2ff25.png",
-    "static/media/CharteredLogo.jpeg": "/CILTLogistics/static/media/CharteredLogo.8dd709aa331b6267bf98.jpeg",
+    "static/media/CharteredLogo.png": "/CILTLogistics/static/media/CharteredLogo.cdf1d1520798bf2c8c1e.png",
     "static/media/WingsWay logo.png": "/CILTLogistics/static/media/WingsWay logo.2d38dac4d59df4056f8d.png",
     "static/media/Footerlogo.png": "/CILTLogistics/static/media/Footerlogo.095b840dc5c1b28b4e8b.png",
     "static/media/slick.svg": "/CILTLogistics/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -22,12 +22,12 @@
     "static/media/slick.woff": "/CILTLogistics/static/media/slick.295183786cd8a1389865.woff",
     "static/media/Contactsvg.svg": "/CILTLogistics/static/media/Contactsvg.15e14b7072527e1d38f3fedc3870d4a8.svg",
     "index.html": "/CILTLogistics/index.html",
-    "main.bf70bf5a.css.map": "/CILTLogistics/static/css/main.bf70bf5a.css.map",
-    "main.b740d967.js.map": "/CILTLogistics/static/js/main.b740d967.js.map",
+    "main.5fe316ac.css.map": "/CILTLogistics/static/css/main.5fe316ac.css.map",
+    "main.32f3aee9.js.map": "/CILTLogistics/static/js/main.32f3aee9.js.map",
     "488.7e101b22.chunk.js.map": "/CILTLogistics/static/js/488.7e101b22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf70bf5a.css",
-    "static/js/main.b740d967.js"
+    "static/css/main.5fe316ac.css",
+    "static/js/main.32f3aee9.js"
   ]
 }
