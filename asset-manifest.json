@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CILTLogistics/static/css/main.5fe316ac.css",
-    "main.js": "/CILTLogistics/static/js/main.32f3aee9.js",
+    "main.css": "/CILTLogistics/static/css/main.77cbd4e8.css",
+    "main.js": "/CILTLogistics/static/js/main.fc999404.js",
     "static/js/488.7e101b22.chunk.js": "/CILTLogistics/static/js/488.7e101b22.chunk.js",
     "static/media/Contactbanner.png": "/CILTLogistics/static/media/Contactbanner.9586aca82b13ff16a360.png",
     "static/media/Terminal.jpg": "/CILTLogistics/static/media/Terminal.8b7c475bf7ffde9395c3.jpg",
@@ -10,10 +10,10 @@
     "static/media/CILT3Image.jpg": "/CILTLogistics/static/media/CILT3Image.a6cfc0728afe90a05e6a.jpg",
     "static/media/CILT5Image.jpg": "/CILTLogistics/static/media/CILT5Image.4390097df86acef823bc.jpg",
     "static/media/ElevateImage.png": "/CILTLogistics/static/media/ElevateImage.7472c0f2af99668800d9.png",
-    "static/media/ISOCertified.png": "/CILTLogistics/static/media/ISOCertified.22b8a25ffbababb95871.png",
+    "static/media/KHDA.png": "/CILTLogistics/static/media/KHDA.b90c57163600f59e01bd.png",
+    "static/media/ISOCertified.png": "/CILTLogistics/static/media/ISOCertified.919bc58acfc76c867762.png",
     "static/media/CharteredImage.png": "/CILTLogistics/static/media/CharteredImage.5a9c9745939796c8e90e.png",
-    "static/media/KHDA.png": "/CILTLogistics/static/media/KHDA.2d57c6c5d87f5ac2ff25.png",
-    "static/media/CharteredLogo.png": "/CILTLogistics/static/media/CharteredLogo.cdf1d1520798bf2c8c1e.png",
+    "static/media/CharteredLogo.png": "/CILTLogistics/static/media/CharteredLogo.76c2a8c9484fff8d28db.png",
     "static/media/WingsWay logo.png": "/CILTLogistics/static/media/WingsWay logo.2d38dac4d59df4056f8d.png",
     "static/media/Footerlogo.png": "/CILTLogistics/static/media/Footerlogo.095b840dc5c1b28b4e8b.png",
     "static/media/slick.svg": "/CILTLogistics/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -22,12 +22,12 @@
     "static/media/slick.woff": "/CILTLogistics/static/media/slick.295183786cd8a1389865.woff",
     "static/media/Contactsvg.svg": "/CILTLogistics/static/media/Contactsvg.15e14b7072527e1d38f3fedc3870d4a8.svg",
     "index.html": "/CILTLogistics/index.html",
-    "main.5fe316ac.css.map": "/CILTLogistics/static/css/main.5fe316ac.css.map",
-    "main.32f3aee9.js.map": "/CILTLogistics/static/js/main.32f3aee9.js.map",
+    "main.77cbd4e8.css.map": "/CILTLogistics/static/css/main.77cbd4e8.css.map",
+    "main.fc999404.js.map": "/CILTLogistics/static/js/main.fc999404.js.map",
     "488.7e101b22.chunk.js.map": "/CILTLogistics/static/js/488.7e101b22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fe316ac.css",
-    "static/js/main.32f3aee9.js"
+    "static/css/main.77cbd4e8.css",
+    "static/js/main.fc999404.js"
   ]
 }
